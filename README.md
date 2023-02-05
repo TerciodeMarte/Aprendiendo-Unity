@@ -23,7 +23,7 @@ Este proyecto está bajo la Licencia (Apache License) - mira el archivo [LICENSE
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a pildoras informaticas(Juan Diaz). 
+* Invita una cerveza 🍺 o un café ☕.
 * Da las gracias públicamente 🤓.
 
 ---
